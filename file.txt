@@ -1,2 +1,3 @@
 this is a change I am making.
 these are more words to help learn github.
+these are changes made to send to github using the terminal.
